@@ -13,4 +13,4 @@ Cada diretório neste repositório corresponde a um tópico específico abordado
 Enquanto este repositório serve principalmente como um registro pessoal de aprendizado, contribuições e sugestões são sempre bem-vindas. Se você tiver alguma ideia de como melhorar os códigos ou a documentação, fique à vontade para abrir uma issue ou enviar um pull request.
 
 ## Contato
-Se você quiser entrar em contato comigo para discutir qualquer aspecto deste repositório, por favor, envie-me uma mensagem ou entre em contato comigo pelo meu linkedin: linkedin.com/in/wendell-costa-b824ab2b5/
+Se você quiser entrar em contato comigo para discutir qualquer aspecto deste repositório, por favor, envie-me uma mensagem pelo e-mail: wendellcosta.dev@gmail.com, ou entre em contato comigo pelo meu linkedin: linkedin.com/in/wendell-costa-b824ab2b5/
