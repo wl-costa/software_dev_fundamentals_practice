@@ -34,7 +34,7 @@ int main(void)
     }
     else
     {
-        printf("Infelizmente você foi reprovado");
+        printf("Você foi reprovado");
     }
 
     return 0;
